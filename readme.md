@@ -22,6 +22,7 @@ La idea es que al final de esta evaluación puedas transformar cualquier página
 La evaluación del Desarrollo Ejercicio Sitio More se realizará en dos partes, las Fechas son:
 
 -Viernes 12 de Julio, Nota Nº 3, 20% 
+
 -Viernes 19 de Julio, Nota Nº 4, 30% 
 
 ### Instrucciones Específicas Evaluación Nº3 20%:
@@ -72,11 +73,17 @@ La evaluación del Desarrollo Ejercicio Sitio More se realizará en dos partes, 
 ## Instrucciones Específicas Evaluación Nº4 30%:
 
 -Incorporar en el `index.php` include del `header.php`, e include del `footer.php`.
+
 -Incorporar el `header hook`  y el `footer hook`.
--Incoporar en el `index.php` Post_type, para recuperar la información de los `post`
+
+-Incoporar en el `index.php` Post_type, para recuperar la información de los `post`.
+
 -Incoporar en el `index.php` Post_type, para recuperar la información del `post_type`,`slider`.
+
 -Crear el `post_type` `slider`.
+
 -A partir del `index.php` debe crear `single.php`, `page.php`.
+
 -A partir del `single.php`, `page.php` crear sus respectivas plantillas, no olvidar los cometarios para distintas plantillas , minimo una de cada una.
 
 ### THEMES FINAL EVALUACIÓN Nº4
