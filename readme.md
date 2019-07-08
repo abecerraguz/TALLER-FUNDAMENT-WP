@@ -1,9 +1,6 @@
-<section>
-# Producción Web Mobile
+# Producción Web Mobile 
 
-**Link Repositorio**
-
-# De página estática a tema de WordPress
+## De página estática a tema de WordPress
 
 ![Landing More Themes](screenshot_landing.png)
 
